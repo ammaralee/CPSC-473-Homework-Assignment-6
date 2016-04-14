@@ -1,0 +1,25 @@
+{
+  "name": "homework6",
+  "version": "1.0.0",
+  "description": "CPSC-473 Homework 6 FlipCoin using Redis",
+  "main": "game.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammaralee/CPSC-473-Homework-Assignment-6.git"
+  },
+  "keywords": [
+    "redis",
+    "express",
+    "bodey-parser",
+    "flipcoin"
+  ],
+  "author": "Ammar Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ammaralee/CPSC-473-Homework-Assignment-6/issues"
+  },
+  "homepage": "https://github.com/ammaralee/CPSC-473-Homework-Assignment-6#readme"
+}
